@@ -1,0 +1,20 @@
+package find.all.sets.of.eligible.cards;
+
+import java.util.List;
+
+public class FindAllSetsOfEligibleCardsMain {
+
+    public static void main(String[] args) {
+//        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
+//        int[] arr = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61};
+//        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30};
+//        int[] arr = {1, 2, 4, 5, 6, 8, 3, 7, 9};
+        int[] arr = {1, 2, 1, 3, 1, 1};
+
+        FindAllSetsOfEligibleCards solution = new FindAllSetsOfEligibleCards();
+        List<int[]> output = solution.solution(arr);
+        System.out.println(output);
+
+    }
+
+}
