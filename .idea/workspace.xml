@@ -18,6 +18,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,69 +37,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BestTimeToBuyAndSellStocksMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructBinaryTreeFromInorderAndPostorderMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ConstructBinaryTreeFromPreorderAndInorderMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ContainerWithMostWaterMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DFSPreorderTraversalMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindACycleInAnUndirectedGraphMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindAllSetsOfEligibleCardsMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindTheIndexOfTheFirstOccurrenceInAStringMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindTheWayOutInvolvingPrincePrincessAndMonsterMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloodFillMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FrogJumpWithKJumpsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HouseRobberTwoMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementingMaxHeapConsistingOfPairsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImplementingMinHeapConsistingOfPairsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumFallingPathSumMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumNumberOfArrowsToBurstBalloonsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumPathSumTriangleMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NinjasTrainingMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PartitionEqualSubsetSumMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseWordsInAString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateArrayMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateImageMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ShortestPalindromeMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SpiralMatrixMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubarraySumEqualsKMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwappingNodesInALinkedListMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TreeTraversalsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniquePathsMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.amazon.rewards.calculation.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.best.time.to.buy.and.sell.stocks.two.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.integer.to.roman.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.longest.substring.without.repeating.characters.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.merge.overlapping.intervals.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse.a.linked.list.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverse.a.part.of.a.linked.list.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.reverse.words.in.a.string.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.roman.to.integer.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.search.in.a.rotated.sorted.array.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sort.an.array.containing.only.zeros.ones.and.twos.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.twosum.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wordbreak.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wordbreak.two.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/I574250/Personal Projects/Java Projects/MyDSAProjects&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BestTimeToBuyAndSellStocksMain.executor": "Run",
+    "Application.ConstructBinaryTreeFromInorderAndPostorderMain.executor": "Debug",
+    "Application.ConstructBinaryTreeFromPreorderAndInorderMain.executor": "Debug",
+    "Application.ContainerWithMostWaterMain.executor": "Run",
+    "Application.DFSPreorderTraversalMain.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.FindACycleInAnUndirectedGraphMain.executor": "Run",
+    "Application.FindAllSetsOfEligibleCardsMain.executor": "Debug",
+    "Application.FindTheIndexOfTheFirstOccurrenceInAStringMain.executor": "Run",
+    "Application.FindTheWayOutInvolvingPrincePrincessAndMonsterMain.executor": "Run",
+    "Application.FloodFillMain.executor": "Debug",
+    "Application.FrogJumpWithKJumpsMain.executor": "Run",
+    "Application.HouseRobberTwoMain.executor": "Run",
+    "Application.ImplementingMaxHeapConsistingOfPairsMain.executor": "Run",
+    "Application.ImplementingMinHeapConsistingOfPairsMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinimumFallingPathSumMain.executor": "Run",
+    "Application.MinimumNumberOfArrowsToBurstBalloonsMain.executor": "Run",
+    "Application.MinimumPathSumTriangleMain.executor": "Run",
+    "Application.NinjasTrainingMain.executor": "Run",
+    "Application.PartitionEqualSubsetSumMain.executor": "Run",
+    "Application.ReverseWordsInAString.executor": "Run",
+    "Application.RotateArrayMain.executor": "Run",
+    "Application.RotateImageMain.executor": "Debug",
+    "Application.ShortestPalindromeMain.executor": "Debug",
+    "Application.SpiralMatrixMain.executor": "Run",
+    "Application.SubarraySumEqualsKMain.executor": "Run",
+    "Application.SwappingNodesInALinkedListMain.executor": "Debug",
+    "Application.TreeTraversalsMain.executor": "Run",
+    "Application.UniquePathsMain.executor": "Run",
+    "Application.amazon.rewards.calculation.Main.executor": "Run",
+    "Application.best.time.to.buy.and.sell.stocks.two.Main.executor": "Run",
+    "Application.integer.to.roman.Main.executor": "Run",
+    "Application.longest.substring.without.repeating.characters.Main.executor": "Run",
+    "Application.merge.overlapping.intervals.Main.executor": "Run",
+    "Application.reverse.a.linked.list.Main.executor": "Run",
+    "Application.reverse.a.part.of.a.linked.list.Main.executor": "Debug",
+    "Application.reverse.words.in.a.string.Main.executor": "Run",
+    "Application.roman.to.integer.Main.executor": "Run",
+    "Application.search.in.a.rotated.sorted.array.Main.executor": "Run",
+    "Application.sort.an.array.containing.only.zeros.ones.and.twos.Main.executor": "Run",
+    "Application.twosum.Main.executor": "Run",
+    "Application.wordbreak.Main.executor": "Run",
+    "Application.wordbreak.two.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/I574250/Personal Projects/Java Projects/my-dsa-projects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/dfs" />
@@ -214,6 +224,7 @@
       <workItem from="1758725244460" duration="57000" />
       <workItem from="1758725494744" duration="63000" />
       <workItem from="1758725594952" duration="674000" />
+      <workItem from="1758726378406" duration="968000" />
     </task>
     <servers />
   </component>
