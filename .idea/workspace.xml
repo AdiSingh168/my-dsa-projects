@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0d3ed89-9d0e-4550-a7fc-40b9fe89351f" name="Changes" comment="" />
+    <list default="true" id="a0d3ed89-9d0e-4550-a7fc-40b9fe89351f" name="Changes" comment="Changed name of the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -95,7 +98,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.completion",
@@ -118,7 +121,7 @@
   <component name="RunManager" selected="Application.BestTimeToBuyAndSellStocksMain">
     <configuration name="BestTimeToBuyAndSellStocksMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="best.time.to.buy.and.sell.stocks.BestTimeToBuyAndSellStocksMain" />
-      <module name="my-dsa-projects" />
+      <module name="assignments" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="best.time.to.buy.and.sell.stocks.*" />
@@ -131,14 +134,14 @@
     </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
-      <module name="my-dsa-projects" />
+      <module name="assignments" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FindTheWayOutInvolvingPrincePrincessAndMonsterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="find.the.way.out.involving.prince.princess.and.monster.FindTheWayOutInvolvingPrincePrincessAndMonsterMain" />
-      <module name="my-dsa-projects" />
+      <module name="assignments" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="find.the.way.out.involving.prince.princess.and.monster.*" />
@@ -151,7 +154,7 @@
     </configuration>
     <configuration name="ImplementingMaxHeapConsistingOfPairsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="implement.max.heap.consisting.of.pairs.ImplementingMaxHeapConsistingOfPairsMain" />
-      <module name="my-dsa-projects" />
+      <module name="assignments" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="implement.max.heap.consisting.of.pairs.*" />
@@ -164,7 +167,7 @@
     </configuration>
     <configuration name="ImplementingMinHeapConsistingOfPairsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="implement.min.heap.consisting.of.pairs.ImplementingMinHeapConsistingOfPairsMain" />
-      <module name="my-dsa-projects" />
+      <module name="assignments" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="implement.min.heap.consisting.of.pairs.*" />
@@ -174,6 +177,17 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="assignments" />
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -230,6 +244,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed name of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed name of the project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
